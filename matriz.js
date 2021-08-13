@@ -15,7 +15,7 @@ let matriz = [
 
 for(let c = 0; c < matriz.length; c++) {
 	for( let c = 0; c <= 11; c++) {
-  	matriz[c].push(10)
+  	matriz[c].push(10) // entrada dos dados
   }
 }
 
